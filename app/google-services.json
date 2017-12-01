@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255448043603",
+    "firebase_url": "https://caonima-c46d0.firebaseio.com",
+    "project_id": "caonima-c46d0",
+    "storage_bucket": "caonima-c46d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255448043603:android:57b656b4dd78a654",
+        "android_client_info": {
+          "package_name": "com.example.zhiweilai.caonima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255448043603-l7qg7leb1l16e4gduqpve2oftmhse6ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zhiweilai.caonima",
+            "certificate_hash": "963c9251f230922f46767ed1952af3213e9ef1c9"
+          }
+        },
+        {
+          "client_id": "255448043603-lk010i2luqblfptjhrk3af8nt8cs7hut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNf7XCj_aXz3W12I8I23E8d09ySwRSyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255448043603-lk010i2luqblfptjhrk3af8nt8cs7hut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
